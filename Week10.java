@@ -78,7 +78,7 @@ class Student {
 
    public static final String DEFAULT_NAME = "zz-error";
    public static final int DEFAULT_POINTS = 0;
-   public static final int MAX_POINTS = 1000;
+   public static final int MAX_POINTS = 2000;
    
    public static final int SORT_BY_FIRST = 88;
    public static final int SORT_BY_LAST = 98;
